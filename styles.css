@@ -1,0 +1,219 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+h2 {
+  font-size: 1.5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #750ba7;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.a {
+  background-image: url("./images/Cheitap-Mayek/012_Aatap\(A\).png");
+}
+
+.ka {
+  background-image: url("./images/Cheitap-Mayek/013_Ka.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.i {
+  background-image: url("./images/Cheitap-Mayek/022_Eenap.png");
+}
+
+.ki {
+  background-image: url("./images/Cheitap-Mayek/023_Kee.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.u {
+  background-image: url("./images/Cheitap-Mayek/032_Unap\(U\).png");
+}
+
+.ku {
+  background-image: url("./images/Cheitap-Mayek/033_Ku.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.e {
+  background-image: url("./images/Cheitap-Mayek/042_Yetnap.png");
+}
+
+.ke {
+  background-image: url("./images/Cheitap-Mayek/043_Ke.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.ei {
+  background-image: url("./images/Cheitap-Mayek/52_Cheinap\(Ei\).png");
+}
+
+.kei {
+  background-image: url("./images/Cheitap-Mayek/053_Kei.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.o {
+  background-image: url("./images/Cheitap-Mayek/062_Otnap.png");
+}
+
+.ko {
+  background-image: url("./images/Cheitap-Mayek/063_Ko.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.ou {
+  background-image: url("./images/Cheitap-Mayek/072_Sounap\(Ou\).png");
+}
+
+.kou {
+  background-image: url("./images/Cheitap-Mayek/073_Kou.png");
+}
+
+.k {
+  background-image: url("./images/Cheitap-Mayek/Kok_001.png");
+}
+
+.ng {
+  background-image: url("./images/Cheitap-Mayek/082_Ngung\(Ng\).png");
+}
+
+.kang {
+  background-image: url("./images/Cheitap-Mayek/083_Kang.png");
+}
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.khonjel {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: start;
+  margin: 10px;
+  background-color: white;
+  background-size: 130px;
+}
+
+  .kakhal {
+    outline: none;
+    display: inline-block;
+    width: 320px;
+    height: 160px;
+    text-align: center;
+    margin: 10px;
+  }
+
+  @media (max-width: 1060px) {
+
+    /* CSS for screens below or equal to 600px wide */
+    .kakhal {
+      outline: none;
+      display: inline-block;
+      width: 250px;
+      height: 160px;
+      text-align: center;
+      margin: 10px;
+    }
+  }
+
+@media (max-width: 850px) {
+
+  /* CSS for screens below or equal to 600px wide */
+  .kakhal {
+    outline: none;
+    display: inline-block;
+    width: 190px;
+    height: 160px;
+    text-align: center;
+    margin: 10px;
+  }
+}
+
+@media (max-width: 750px) {
+
+  /* CSS for screens below or equal to 600px wide */
+  .kakhal {
+    outline: none;
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    text-align: center;
+    margin: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  /* CSS for screens below or equal to 600px wide */
+  .kakhal {
+    outline: none;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+  }
+}

@@ -13,6 +13,10 @@ Welcome to the Meitei / Meetei Mayek Language Learning Website! This platform he
 
 ![Image text](https://github.com/oinamclintonsingh/Cheitap-Mayek/blob/f9b3f7e041b51e7458718e5fb844e9e4c1b57693/images/Cheitap-Mayek/Screent%20shoots/Cheitap%20Mayek_01.png)
 
+## Website
+
+You can visit my website [here](https://oinamclintonsingh.github.io/Cheitap-Mayek/).
+
 ## Features
 
 - **Interactive Script Display**: View the Meitei Mayek script of Cheitap Mayek and Tapnaba Khonthok.
